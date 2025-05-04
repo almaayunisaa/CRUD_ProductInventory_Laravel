@@ -3,7 +3,7 @@
 Sistem CRUD manajemen product dengan relasi ke kategori. Dibangun dengan Laravel, Bootstrap, DataTables, dan jQuery AJAX.
 
 ## ✨ Fitur
-- CRUD Data Porduk
+- CRUD Data Produk
 - Relasi One to Many (Category → Products)
 - AJAX Form (tanpa reload)
 - DataTables dengan sorting & pencarian
